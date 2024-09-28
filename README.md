@@ -1,5 +1,5 @@
 
-# Alexsandro Silva
+# Alexsandro Da Silva Bezerra
 
 Atualmente tenho 21 anos e sou estudante de Ciência de Dados com foco em estatística, aprendizado de máquina e processamento de linguagem natural (PLN).
 
